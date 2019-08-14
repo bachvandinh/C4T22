@@ -1,0 +1,10 @@
+from turtle import*
+shape("turtle")
+speed(-1)
+forward(90)
+left(120)
+forward(90)
+left(120)
+forward(90)
+left(120)
+mainloop()
